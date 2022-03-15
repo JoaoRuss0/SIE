@@ -1,0 +1,19 @@
+O processo inicia-se quando um Colaborador abre um novo pedido de suporte de TI. O pedido é seguidamente analisado pelo Suporte Geral, que averigua se
+o pedido necessita de ser escalado ou não para o Suporte Avançado. Caso necessite, o pedido é analisado pelo Suporte Avançado, que seguidamente o procura resolver
+e averigua ao mesmo tempo se é necessária uma visita ao local. Caso seja necessária, é chamado um processo de agendamento de visita ao local e de realização da
+visita. Após esta visita, o Colaborador que iniciou o processo é notificado da resolução do pedido, este Colaborador verifica então a resolução do pedido, e caso
+este esteja resolvido, o Suporte Geral fecha o pedido e termina o processo com um evento para despoletar um processo de preenchimento questionário de satisfação
+por parte do Colaborador.
+
+Caso o pedido analisado inicialmente pelo Suporte Geral não necessite de ser escalado para o Suporte Avançado, o Suporte Geral procura
+resolver o pedido. Após esta resolução, o Colaborador é igualmente notificado da mesma e prossegue de igual forma com a sua verificação, tal
+como no caso da resolução do pedido efetuado pelo Suporte Avançado.
+
+Caso o Colaborador verifique que o pedido não está resolvido, este é encaminhado para o Suporte Geral, para ser novamente analisado.
+
+O processo de agendamento e visita ao local é iniciado pelo Coordenador de Visitas ao Local, que começa por agendar a visita. Depois,
+a Equipa de Suporte no Local é automaticamente notificada deste agendamento, e seguidamente realiza a visita ao local e a resolução do pedido.
+A Equipda de Suporte no Local recebe, todos os dias, alertas automáticos para a realização da visita e resolução do pedido, até ter terminado esta tarefa.
+
+O processo de preeenchimento do questionário de satisfação é iniciado com uma mensagem provinda do evento de término do processo principal. Após iniciado
+é enviado automaticamente um questionário de satisfação ao Colaborador, que o preenche e submete, terminando globalmente todo o processo de pedido de suporte.
