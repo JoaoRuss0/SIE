@@ -1,0 +1,23 @@
+The process starts with the on-boarding of a new employee, the HR Employee registers the new employee, collects and uploads his legal documents and prepares the employee's
+compensation and benefits pack, then the HR Manager validates both of these, if the benefits pack is approved, the HR Manager specifies some employee requirements (IT, workspace, etc...),
+some processes are then initiated, orientation, pay-roll setup, workspace setup followed by the infrastructure setup, and IT setup. When all these processes terminate the manager
+is notified and the onboarding status is updated. After this the HR Manager composes and sends an introdution email to the employee and at the same time the employee is notified
+to take an onboarding survey, the employee takes it and the onboarding process is complete.
+
+If the benefits pack is not approved by the HR Manager, then the HR Employee re-prepares the new employee's compensation and benefits pack, these are posteriorly validated by the HR manager.
+
+The workspace setup process starts with the Facility Manager verifying if the employee need to be assigned to a workspace, if true, this employee is assigned to a workspace, after this the ____ validates
+the assigned to a workspace, if the assigned workspace is fine then the Facility Manager notifies the admin to set up the workspace, then the Facility Manager assembles the workspace and the manager is notified
+of the workspace setup being complete and the process ends.
+
+If the employee does not need to be assigned to a workspace, the process ends.
+
+If the Hiring manager is not happy with the workspace assigned to the employee a new workspace is assigned to the employee.
+
+The infrastructure process stats with the ____ Services configuring telecom, after this the telecom manager is notified of the complete setup and the process ends.
+
+The IT setup process starts with the IT requesting software, requesting hardware and configuring the employee's account all at the same time, then the IT Manager is notified of the complete IT setup and the process ends.
+
+The Payroll setup starts with an Accounting employee preparing the new employee's payroll and after it is prepared the process ends.
+
+The Orientation setup starts with an HR Employee .... continues.
